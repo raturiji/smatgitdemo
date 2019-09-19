@@ -1,0 +1,2 @@
+# smatgitdemo
+testing smartgit
